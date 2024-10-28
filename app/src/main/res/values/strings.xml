@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Atividade07_01</string>
+    <string name="my_name">Gustavo Guimarães de Oliveira</string>
+    <string name="my_ra">1110482313013</string>
+    <string name="poupanca">Poupança</string>
+    <string name="especial">Especial</string>
+    <string name="etCliente">Cliente</string>
+    <string name="etNumConta">Conta</string>
+    <string name="etSaldo">Saldo</string>
+    <string name="etDiaRendi">Dia</string>
+    <string name="etTaxa">Taxa (%)</string>
+    <string name="etLimite">Limite</string>
+    <string name="btnCriarConta">Criar Conta</string>
+    <string name="etValorSaque">Valor Saque</string>
+    <string name="btnSacar">Sacar</string>
+    <string name="etValorDeposito">Valor Depósito</string>
+    <string name="btnDepositar">Depositar</string>
+</resources>
